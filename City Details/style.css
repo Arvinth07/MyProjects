@@ -1,13 +1,14 @@
 body
 {
    background-color: rgba(55, 56, 65, 0.24);
-   
-    
-    
-  
+
+}
+h2{
+    color: red;
+    background-color: rgb(21, 24, 24);
 }
 #box{
-    background:linear-gradient(75deg,rgb(185, 179, 179),rgb(226, 127, 127));
+    background:linear-gradient(75deg,rgb(185, 179, 179),rgb(130, 62, 62));
     width: 15%;
     height: 80%;
     padding: 60px;
@@ -20,9 +21,10 @@ body
     text-align: center;
     position: relative;
     bottom: 40px;
-    color: aliceblue;
+    color: rgb(186, 215, 241);
 }
 #dropdown{
+    background-color: lightyellow;
     text-align: center;
     position: relative;
     left: 50px;
@@ -37,21 +39,21 @@ body
 #box button{
     text-align: center;
     position: relative;
-    left: 60px;
+    left: 65px;
     bottom:10px;
-    background-color: rgba(252, 253, 253, 0.911);
+    background-color: rgba(59, 232, 232, 0.911);
     border: none;
     padding: 6px;
-    color: black;
+    color: rgb(34, 12, 12);
     
 
 }
 #res{
     
     position: absolute;
-    left: 555px;
+    left: 630px;
     width: 270px;
    
-    bottom: 260px;
-    color: rgb(227, 233, 233);
+    bottom: 300px;
+    color: rgb(32, 21, 21);
 }
